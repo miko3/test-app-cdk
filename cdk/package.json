@@ -21,10 +21,11 @@
   },
   "dependencies": {
     "@aws-cdk/aws-apprunner-alpha": "^2.117.0-alpha.0",
-    "aws-cdk-lib": "2.115.0",
+    "aws-cdk-lib": "2.117.0",
     "cdk-docker-image-deployment": "^0.0.475",
     "cdk-ecr-deployment": "^3.0.4",
     "constructs": "^10.0.0",
+    "dotenv": "^16.3.1",
     "source-map-support": "^0.5.21"
   }
 }
